@@ -1,11 +1,10 @@
-#lbaasv2
+#lbaasv2  
 If you run this on a reference OSP director deployment:   
 ./run_lbaasv2_tests.sh neutron_lbaas.tests.tempest.v2.api  
 
 You should get something like this:   
-======  
+
 Totals  
-======  
 Ran: 251 tests in 1797.0000 sec.  
  - Passed: 248  
  - Skipped: 3  
