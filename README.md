@@ -1,4 +1,4 @@
-# tempest-tools  
+# osp_tempest_install
 tools for installing tempest.  
 tested on Red Hat OpenStack platform 10  
 install-tempest.sh - install according to:  
