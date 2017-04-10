@@ -1,9 +1,10 @@
+# neutron-lbaas  
 These instructions presume that python-neutron-lbaas-tests rpm is installed and that tempest is working per the instructions in the parent directory.  
 
-install-lbaasv2-tests.sh - installation script  
+#installation script  
+install-lbaasv2-tests.sh #installation script  
 
-#lbaasv2  
-If you run this on a reference OSP director deployment:   
+#If you run this on a reference OSP director deployment:   
 ./run_lbaasv2_tests.sh neutron_lbaas.tests.tempest.v2.api  
 
 You should get something like this:   
