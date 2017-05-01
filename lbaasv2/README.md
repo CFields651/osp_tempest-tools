@@ -5,7 +5,7 @@ These instructions presume that python-neutron-lbaas-tests rpm is installed and 
 install-lbaasv2-tests.sh #installation script  
 
 #If you run this on a reference OSP director deployment:   
-cd /tmp/myneutron_lbaas_tests
+cd /tmp/myneutron_lbaas_tests  
 ./run_lbaasv2_tests.sh neutron_lbaas.tests.tempest.v2.api  
 
 You should get something like this:   
